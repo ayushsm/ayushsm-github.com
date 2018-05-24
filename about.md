@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-Nice to meet you! I'm a sophomore at the University of California, Berkeley, where I study Computer Science/Electrical Engineering and Bioengineering.
+Nice to meet you! I'm a sophomore at the University of California, Berkeley, where I'm currently studying Computer Science and Electrical Engineering.
 
 ### <center>Background</center>
 I come from San Ramon, CA where I lived all 18 years until really expanding my horizons and going to college 30 minutes away. Coming to Berkeley, I thought I was going to be a purely bio-related major but after my first year here, I realized that my dad was right all along and CS is the future... so I probably shouldn't have fallen asleep during all his CS lectures. Nevertheless, I'm currently taking numerous CS classes with a mix of some Bioengineering and Electrical Engineering classes on the side.
