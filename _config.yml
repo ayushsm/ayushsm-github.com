@@ -53,11 +53,11 @@ github: ayushsm
 email: ayush.sm@berkeley.edu
 
 authors:
-    johndoe:
+    ayushmaganahalli:
         name: Ayush Maganahalli
         bio: Sophomore @ UC Berkeley
         external-image: false
-        picture: assets/images/newprofile.jpeg
+        picture: assets/images/newprofile.jpg
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal

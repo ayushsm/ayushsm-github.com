@@ -1,0 +1,34 @@
+---
+layout: page
+title: Projects
+---
+<p>
+This website was actually my first major CS project outside of an academic environment!
+I probably redid this repository around 7 times so there are about 250 prior commits
+to help myself understand the functionality of Jekyll and its interactions. Listed below 
+are some of the most recent projects I worked on: 
+</p>
+
+<section class="list">
+	{% if site.posts.size == 0 %}
+		<p class="text-center">Nothing published yet!</p>
+	{% elsif site.paginate %}
+		{% for post in paginator.posts %}
+			{% if post.category == 'blog' %}
+				{% if post.hidden != true %}
+					{% include blog-post.html %}
+				{% endif %}
+			{% endif %}
+		{% endfor %}
+
+		{% include pagination.html%}
+	{% else %}
+		{% for post in site.posts %}
+			{% if post.category == 'blog' %}
+				{% if post.hidden != true %}
+					{% include blog-post.html %}
+				{% endif %}
+			{% endif %}
+		{% endfor %}
+	{% endif %}
+</section>
