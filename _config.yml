@@ -8,7 +8,7 @@ description: "Hey there, I'm Ayush Maganahalli and this is my personal website!"
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/temp_profile.jpg
+picture: assets/images/newprofile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).

@@ -14,9 +14,9 @@ are some of the most recent projects I worked on:
 		<p class="text-center">Nothing published yet!</p>
 	{% elsif site.paginate %}
 		{% for post in paginator.posts %}
-			{% if post.category == 'blog' %}
+			{% if post.category == 'project' %}
 				{% if post.hidden != true %}
-					{% include blog-post.html %}
+					{% include project-post.html %}
 				{% endif %}
 			{% endif %}
 		{% endfor %}
@@ -24,9 +24,9 @@ are some of the most recent projects I worked on:
 		{% include pagination.html%}
 	{% else %}
 		{% for post in site.posts %}
-			{% if post.category == 'blog' %}
+			{% if post.category == 'project' %}
 				{% if post.hidden != true %}
-					{% include blog-post.html %}
+					{% include project-post.html %}
 				{% endif %}
 			{% endif %}
 		{% endfor %}
