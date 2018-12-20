@@ -16,7 +16,7 @@ are some of the most recent projects I worked on:
 		{% for post in paginator.posts %}
 			{% if post.category == 'project' %}
 				{% if post.hidden != true %}
-					{% include project-post.html %}
+					{% include blog-post.html %}
 				{% endif %}
 			{% endif %}
 		{% endfor %}
@@ -26,7 +26,7 @@ are some of the most recent projects I worked on:
 		{% for post in site.posts %}
 			{% if post.category == 'project' %}
 				{% if post.hidden != true %}
-					{% include project-post.html %}
+					{% include blog-post.html %}
 				{% endif %}
 			{% endif %}
 		{% endfor %}
