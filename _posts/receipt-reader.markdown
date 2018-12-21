@@ -1,16 +1,13 @@
 ---
-title: "Receipt Reader"
+title: "Reading List"
 layout: post
-date: 2018-12-19 22:38
-image: /assets/images/receipt-reader.jpg
-headerImage: false
+date: 2018-12-19
 tag:
-- project
-category: project
-draft: true
-hidden: false
-author: ayushmaganahalli
-description: Receipt reader project
+- books
+- personal
+category: blog
+author: ayushsm
+description: Various Things I'm Reading
 ---
 
 This is the first CS project I did in a non-academic setting!
