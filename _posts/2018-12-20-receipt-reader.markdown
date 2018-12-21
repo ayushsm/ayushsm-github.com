@@ -1,12 +1,12 @@
 ---
-title: "New Reading List"
+title: "Receipt Reader"
 layout: post
 date: 2018-12-20
 tag:
-- books
+- project
 - personal
 category: project
 author: ayushsm
-description: Things I'm Reading x2
+description: Computer vision project used to scan and digitalize receipts.
 ---
 
