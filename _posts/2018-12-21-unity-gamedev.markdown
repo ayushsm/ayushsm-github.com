@@ -1,5 +1,5 @@
 ---
-title: "Unit Game Dev"
+title: "Unity Game Dev"
 layout: post
 date: 2018-12-21
 tag:
