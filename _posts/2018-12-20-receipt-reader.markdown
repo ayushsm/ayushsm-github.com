@@ -5,8 +5,8 @@ date: 2018-12-20
 tag:
 - books
 - personal
-category: blog
+category: project
 author: ayushsm
 description: Things I'm Reading x2
 ---
-Check update speed.
+
