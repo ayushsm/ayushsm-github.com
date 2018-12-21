@@ -1,5 +1,5 @@
 ---
-title: "Reading List"
+title: "Receipt Reader"
 layout: post
 date: 2018-12-19
 tag:
@@ -7,7 +7,7 @@ tag:
 - personal
 category: blog
 author: ayushsm
-description: Various Things I'm Reading
+description: Test Trial
 ---
 
 This is the first CS project I did in a non-academic setting!
