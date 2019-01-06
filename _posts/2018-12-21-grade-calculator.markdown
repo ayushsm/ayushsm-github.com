@@ -9,3 +9,4 @@ category: project
 author: ayushsm
 description: Grade calculator that computes your GPA given your inputted number of units and grades.
 ---
+Currently working on incorporating large HTML blocks into Markdown.
