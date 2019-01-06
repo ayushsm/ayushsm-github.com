@@ -4,7 +4,7 @@ layout: post
 date: 2018-12-19
 tag:
 - books
-- personal
+- blog
 category: blog
 author: ayushsm
 description: Various Things I'm Reading
@@ -14,6 +14,7 @@ As of recently, I haven't really kept up with my reading habits all too well. Ho
 ## Reading
 * **Little Failure** by Gary Shteyngart
 * **Death's End** by Liu Cixin
+* **Steve Jobs** by Walter Isaacson
 
 ## Recently Finished
 * **A Brieft History of Time** by Stephen Hawking (August 28, 2018)
@@ -23,6 +24,5 @@ As of recently, I haven't really kept up with my reading habits all too well. Ho
 * **The Three Body Problem** by Liu Cixin (December 22, 2017)
 
 ## Plan to Read
-* **Steve Jobs** by Walter Isaacson
 * **Tools of Titans** by Tim Ferriss
 * **Tribe of Mentors** by Tim Ferriss
